@@ -1,0 +1,10 @@
+/Users/jvictorantonucci/Development/rust-crash-course/closures-threads/target/debug/deps/memoffset-e7a177f9e132c30a.rmeta: /Users/jvictorantonucci/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.8.0/src/lib.rs /Users/jvictorantonucci/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.8.0/src/raw_field.rs /Users/jvictorantonucci/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.8.0/src/offset_of.rs /Users/jvictorantonucci/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.8.0/src/span_of.rs
+
+/Users/jvictorantonucci/Development/rust-crash-course/closures-threads/target/debug/deps/libmemoffset-e7a177f9e132c30a.rlib: /Users/jvictorantonucci/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.8.0/src/lib.rs /Users/jvictorantonucci/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.8.0/src/raw_field.rs /Users/jvictorantonucci/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.8.0/src/offset_of.rs /Users/jvictorantonucci/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.8.0/src/span_of.rs
+
+/Users/jvictorantonucci/Development/rust-crash-course/closures-threads/target/debug/deps/memoffset-e7a177f9e132c30a.d: /Users/jvictorantonucci/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.8.0/src/lib.rs /Users/jvictorantonucci/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.8.0/src/raw_field.rs /Users/jvictorantonucci/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.8.0/src/offset_of.rs /Users/jvictorantonucci/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.8.0/src/span_of.rs
+
+/Users/jvictorantonucci/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.8.0/src/lib.rs:
+/Users/jvictorantonucci/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.8.0/src/raw_field.rs:
+/Users/jvictorantonucci/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.8.0/src/offset_of.rs:
+/Users/jvictorantonucci/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.8.0/src/span_of.rs:
