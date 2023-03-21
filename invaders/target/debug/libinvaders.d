@@ -1,0 +1,1 @@
+/Users/jvictorantonucci/Development/rust-crash-course/invaders/target/debug/libinvaders.rlib: /Users/jvictorantonucci/Development/rust-crash-course/invaders/src/frame.rs /Users/jvictorantonucci/Development/rust-crash-course/invaders/src/lib.rs /Users/jvictorantonucci/Development/rust-crash-course/invaders/src/render.rs

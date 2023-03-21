@@ -1,0 +1,9 @@
+/Users/jvictorantonucci/Development/rust-crash-course/invaders/target/debug/build/clang-sys-601cec07e2a52677/build_script_build-601cec07e2a52677: /Users/jvictorantonucci/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.6.0/build.rs /Users/jvictorantonucci/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.6.0/build/macros.rs /Users/jvictorantonucci/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.6.0/build/common.rs /Users/jvictorantonucci/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.6.0/build/dynamic.rs /Users/jvictorantonucci/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.6.0/build/static.rs
+
+/Users/jvictorantonucci/Development/rust-crash-course/invaders/target/debug/build/clang-sys-601cec07e2a52677/build_script_build-601cec07e2a52677.d: /Users/jvictorantonucci/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.6.0/build.rs /Users/jvictorantonucci/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.6.0/build/macros.rs /Users/jvictorantonucci/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.6.0/build/common.rs /Users/jvictorantonucci/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.6.0/build/dynamic.rs /Users/jvictorantonucci/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.6.0/build/static.rs
+
+/Users/jvictorantonucci/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.6.0/build.rs:
+/Users/jvictorantonucci/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.6.0/build/macros.rs:
+/Users/jvictorantonucci/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.6.0/build/common.rs:
+/Users/jvictorantonucci/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.6.0/build/dynamic.rs:
+/Users/jvictorantonucci/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.6.0/build/static.rs:
